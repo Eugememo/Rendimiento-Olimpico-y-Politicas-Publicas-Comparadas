@@ -53,7 +53,7 @@ El análisis exploratorio de los datos (EDA) se realizó para obtener informaci�
   - **Gráfico de líneas**: Representa la evolución de la población a lo largo de los años.
   - **Gráfico de barras por décadas**: Visualiza las tendencias en cada década.
 - **Análisis de Argentina**: Se comparó la población de Argentina con la de los cuatro países que tienen poblaciones más altas y más bajas.
-![EDAdf_poblacion](poblaciones_similares_a_argentina.png)
+![EDAdf_poblacion](Poblaciones_Similares_a_Argentina.png)
 
 ### 2. Análisis del DataFrame `df_PBI`
 - **Top 10 países con más PBI**: Se identificaron los diez países con el mayor PBI, acompañados de:
