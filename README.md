@@ -42,3 +42,35 @@ Para este proyecto, se utilizó la librería **Pandas** como herramienta princip
 
 7. **Reinicio de Índices**: Finalmente, se reiniciaron los índices de todos los DataFrames para asegurar una mejor organización y accesibilidad a los datos.
 
+
+## Análisis Exploratorio de los Datos (EDA)
+
+El análisis exploratorio de los datos (EDA) se realizó para obtener información valiosa sobre la población, el Producto Bruto Interno (PBI) y el rendimiento en los Juegos Olímpicos. A continuación, se presentan los hallazgos más relevantes de cada DataFrame analizado:
+
+### 1. Análisis del DataFrame `df_poblacion`
+- **Top 10 países con más población**: Se agrupó la información por país y se calculó el promedio de población a lo largo de los años, lo que permitió identificar los diez países más poblados.
+- **Top 10 países con menos población**: Se elaboró una lista de los países con menor población, complementada con:
+  - **Gráfico de líneas**: Representa la evolución de la población a lo largo de los años.
+  - **Gráfico de barras por décadas**: Visualiza las tendencias en cada década.
+- **Análisis de Argentina**: Se comparó la población de Argentina con la de los cuatro países que tienen poblaciones más altas y más bajas.
+![EDAdf_poblacion](img_Poblaciones_Similares_a_Argentina.png)
+
+### 2. Análisis del DataFrame `df_PBI`
+- **Top 10 países con más PBI**: Se identificaron los diez países con el mayor PBI, acompañados de:
+  - **Gráfico de líneas**: Muestra la evolución del PBI a lo largo de los años.
+  - **Gráfico de barras por décadas**: Refleja las variaciones en cada década.
+- **Top 10 países con menos PBI**: Se realizó un análisis similar, incluyendo gráficos para visualizar los resultados.
+- **Análisis de Argentina**: Se comparó el PBI de Argentina con el de los cuatro países que están por encima y por debajo en este indicador.
+
+### 3. Análisis del DataFrame `df_JJOO`
+- **Participantes por País**: Se identificaron los diez países con más deportistas participando en los Juegos Olímpicos, acompañados de:
+  - **Gráfico de líneas**: Representa la evolución de la participación a lo largo de los años.
+  - **Gráfico de barras por décadas**: Permite observar las tendencias en cada década.
+  
+- **Cantidad de Medallas por País**:
+  - Se elaboró un top de los diez países con más medallas obtenidas en los Juegos Olímpicos, acompañado de gráficos de líneas y de barras por décadas.
+  - Se realizó un análisis específico de las medallas de oro, plata y bronce, presentando los diez países que más medallas han ganado en cada categoría, con gráficos correspondientes.
+  - Se analizó la evolución de los resultados de Argentina y la cantidad de medallas obtenidas por décadas.
+
+
+
