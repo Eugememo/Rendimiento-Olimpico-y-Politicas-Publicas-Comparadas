@@ -14,6 +14,7 @@ Además, se evaluará cómo el nivel socioeconómico influye en la implementaci�
 4. [Análisis Exploratorio de los Datos (EDA)](#análisis-exploratorio-de-los-datos-eda)
 5. [Producción del Dashboard](#producción-del-dashboard)
 6. [Conclusión](#conclusión)
+7. [Integrantes](#integrantes)
 
 ## Descripción de los Datasets
 
@@ -24,7 +25,7 @@ Para este proyecto, se trabajó con los siguientes conjuntos de datos:
 - **Población Mundial y PBI**: Los datos sobre la población mundial y el Producto Bruto Interno (PBI) fueron extraídos de la página del **Banco Mundial** ([www.worldbank.org](https://www.worldbank.org)).
 
 
-## Extracción, Carga y Transformación de Datos (ETL)
+## Extracción, Carga y Transformación de los Datos (ETL)
 
 Para este proyecto, se utilizó la librería **Pandas** como herramienta principal para llevar a cabo el proceso de ETL. A continuación, se detallan las transformaciones realizadas en los datos:
 
@@ -53,7 +54,7 @@ El análisis exploratorio de los datos (EDA) se realizó para obtener informaci�
   - **Gráfico de líneas**: Representa la evolución de la población a lo largo de los años.
   - **Gráfico de barras por décadas**: Visualiza las tendencias en cada década.
 - **Análisis de Argentina**: Se comparó la población de Argentina con la de los cuatro países que tienen poblaciones más altas y más bajas.
-![EDAdf_poblacion](img_Poblaciones_Similares_a_Argentina.png)
+![EDAdf_poblacion](img/Poblaciones_Similares_a_Argentina.png)
 
 ### 2. Análisis del DataFrame `df_PBI`
 - **Top 10 países con más PBI**: Se identificaron los diez países con el mayor PBI, acompañados de:
@@ -61,16 +62,24 @@ El análisis exploratorio de los datos (EDA) se realizó para obtener informaci�
   - **Gráfico de barras por décadas**: Refleja las variaciones en cada década.
 - **Top 10 países con menos PBI**: Se realizó un análisis similar, incluyendo gráficos para visualizar los resultados.
 - **Análisis de Argentina**: Se comparó el PBI de Argentina con el de los cuatro países que están por encima y por debajo en este indicador.
+![EDAdf_poblacion](img/PBI_Similares_a_Argentina.png)
 
 ### 3. Análisis del DataFrame `df_JJOO`
 - **Participantes por País**: Se identificaron los diez países con más deportistas participando en los Juegos Olímpicos, acompañados de:
   - **Gráfico de líneas**: Representa la evolución de la participación a lo largo de los años.
   - **Gráfico de barras por décadas**: Permite observar las tendencias en cada década.
+![EDAdf_poblacion](img/Deportistas_en_JJOO.png)
   
 - **Cantidad de Medallas por País**:
   - Se elaboró un top de los diez países con más medallas obtenidas en los Juegos Olímpicos, acompañado de gráficos de líneas y de barras por décadas.
   - Se realizó un análisis específico de las medallas de oro, plata y bronce, presentando los diez países que más medallas han ganado en cada categoría, con gráficos correspondientes.
   - Se analizó la evolución de los resultados de Argentina y la cantidad de medallas obtenidas por décadas.
+![EDAdf_poblacion](img/Países_con_más_Medallas.png)
+![EDAdf_poblacion](img/Total_de_Medallas_Argentina.png)
 
-
+## Integrantes
+ - María Eugenia Memolli [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-eugenia-memolli/)
+     - Data Science | Data Analitycs 
+ - Matías Agustín Sosa [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matias-agustin-sosa/)
+     - Data Science | Machine Learning
 
