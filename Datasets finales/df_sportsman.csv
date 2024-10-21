@@ -41989,80 +41989,6 @@ ID_sportsman,Name,Sex,Sport
 132177,Mohammad Anas Yahiya,M,Athletics
 133029,"Thyadathuvilla Chandrapillai ""T. C."" Yohannan",M,Athletics
 135480,Geeta Zutshi,F,Athletics
-1773,Ahmad Al-Afasi,M,Shooting
-1858,Fehaid Al-Deehani,M,Shooting
-1897,Abdulrahman Al-Faihan,M,Shooting
-2053,Khaled Al-Mudhaf,M,Shooting
-2112,Abdullah Al-Rashidi,M,Shooting
-2161,Abdulaziz Al-Shatti,M,Fencing
-2277,Darija Alauf,F,Swimming
-3302,Aguida Fatima Amaral,F,Athletics
-7534,Vladimir Banjanac,M,Rowing
-11592,Aranka Binder,F,Shooting
-13173,Liemarvin Bonevacia,M,Athletics
-14684,Slobodan Brankovi,M,Athletics
-15205,Mio Brkovi,M,Cycling
-21666,Suzana iri,F,Athletics
-24163,Radia ubri,M,Cycling
-24638,Calisto da Costa,M,Athletics
-25884,Martinho de Araujo,M,Weightlifting
-26790,Reginald de Windt,M,Judo
-29840,Milan orevi,M,Canoeing
-34366,"Jasna Fazli-Reed (-Lupulesku-, -Rather)",F,Table Tennis
-35334,Kire Filipovski,M,Swimming
-38172,Zoran Galovi,M,Wrestling
-42112,Milo Govedarica,M,Wrestling
-43306,Slobodan Gruji,M,Table Tennis
-44523,Saud Habib,M,Shooting
-52932,Aleksandra Ivoev,F,Shooting
-52933,Pajo Ivoevi,M,Wrestling
-55051,Miroslav Joi,M,Judo
-56058,Dejan Jovkovi,M,Athletics
-56864,Zoran Kalini,M,Table Tennis
-57346,Mladen Kapor,M,Swimming
-57936,Goran Kasum,M,Wrestling
-62938,Maja Kos,F,Synchronized Swimming
-72433,Ilija Lupulesku,M,Table Tennis
-73929,Goran Maksimovi,M,Shooting
-74028,Tamara Maleev,F,Athletics
-75001,Guor Marial (-Mading Miaker),M,Athletics
-75042,Sran Marilovi,M,Canoeing
-75196,Leposava Markovi,F,Judo
-79033,Nataa Mekovska,F,Swimming
-79332,Vanja Mieta,F,Synchronized Swimming
-79562,Lidija Mihajlovi,F,Shooting
-79735,Majda Milak,F,Rhythmic Gymnastics
-79789,Aleksandar Milenkovi,M,Cycling
-79828,Mitar Milinkovi,M,Judo
-80010,Lazar Miloevi,M,Canoeing
-80289,Nemanja Mirosavljev,M,Shooting
-83681,Sran Mukatirovi,M,Tennis
-91133,Dano Panti,M,Judo
-92345,Elizabeta Pavlovska,F,Athletics
-93433,Dragan Peri,M,Athletics
-93478,Gordana Perkuin,F,Table Tennis
-95271,Lazo Piva,M,Rowing
-95464,Stevan Pletikosi,M,Shooting
-95856,Eszter Poljak,F,Shooting
-96152,Duan Popeskov,M,Cycling
-96212,Slobodan Popovi,M,Athletics
-96222,Lazar Popovski,M,Canoeing
-97735,Abbas Qali,M,Swimming
-98103,Milan Radakovi,M,Wrestling
-98186,Kristina Radonji,F,Rhythmic Gymnastics
-98743,Victor Ramos,M,Boxing
-101191,Senad Rizvanovi,M,Wrestling
-101212,Miko Rnjakovi,M,Cycling
-104054,Nandor Sabo Paloc,M,Wrestling
-106241,Tamara Savi-otra,F,Fencing
-108383,Jasna ekari (Brajkovi-),F,Shooting
-108625,Marija Senica,F,Synchronized Swimming
-113284,Zoran orov,M,Wrestling
-116388,Faye Sultan Hussain,F,Swimming
-121106,Dragutin Topi,M,Athletics
-121630,eljko Trajkovi,M,Wrestling
-125698,arko Veki,M,Canoeing
-135246,Stevan Zori,M,Athletics
 128,Soulmaz Abbasi Azad,F,Rowing
 250,Saeid Morad Abdevali,M,Wrestling
 261,Nasrollah Abdollahi,M,Football
@@ -52947,6 +52873,7 @@ ID_sportsman,Name,Sex,Sport
 1851,Ebrahim Al-Cattan,M,Fencing
 1852,Faisal Ali Al-Daakhil,M,Football
 1854,Nayef Al-Daihani,M,Shooting
+1858,Fehaid Al-Deehani,M,Shooting
 1860,Jasem Muhammad Al-Deyab,M,Handball
 1861,Nawaf Al-Dhafari,M,Football
 1863,Youssef Al-Dokhi,M,Football
@@ -52994,6 +52921,7 @@ ID_sportsman,Name,Sex,Sport
 2047,Naser Al-Meqlad,M,Shooting
 2049,Waleed Al-Mohamed Abdulmuhsin,M,Rowing
 2052,Abdul Majeed Al-Mosawi,M,Athletics
+2053,Khaled Al-Mudhaf,M,Shooting
 2056,Khaled Al-Mulla,M,Handball
 2057,Nahedh Al-Murdh,M,Fencing
 2060,Faraj Mubarak Al-Mutairi,M,Handball
@@ -53016,6 +52944,7 @@ ID_sportsman,Name,Sex,Sport
 2100,Abdullah Abdulrahman Al-Qenai,M,Handball
 2103,Ibrahim Khalef Al-Rabeeah,M,Athletics
 2107,Musa'ed Mubarak Al-Randi,M,Handball
+2112,Abdullah Al-Rashidi,M,Shooting
 2113,Talal Al-Rashidi,M,Shooting
 2137,Abdul Nasser Al-Sayegh,M,Fencing
 2146,Bandar Al-Shammari,M,Handball
@@ -53050,6 +52979,7 @@ ID_sportsman,Name,Sex,Sport
 34047,Sayed Farhad,M,Judo
 39928,Khaled Murad Ghaloum,M,Athletics
 39929,Mohamed Ghaloum,M,Fencing
+44523,Saud Habib,M,Shooting
 44867,Ahmad Hajji,M,Football
 46379,Ahmad Hasan,M,Football
 46380,Ali Hasan Muhammad Al-Wuthini,M,Fencing
@@ -53093,6 +53023,7 @@ ID_sportsman,Name,Sex,Sport
 109121,Khaled Abdulqadus Shah Al-Zadah,M,Handball
 109129,Ismael Abdulqadus Shah Al-Zadah,M,Handball
 109273,Hussain Shareef,M,Judo
+116388,Faye Sultan Hussain,F,Swimming
 116390,Jasem Yacoub Sultan,M,Football
 116392,Majid Mohamed Al-Ali Sultan,M,Judo
 127775,Isaac Atish Wa-El,M,Swimming
@@ -56590,12 +56521,14 @@ ID_sportsman,Name,Sex,Sport
 12747,Anastasia Katerina Bogdanovski,F,Swimming
 13737,Mirjana Boevska,F,Swimming
 31529,Kristijan Efremov,M,Athletics
+35334,Kire Filipovski,M,Swimming
 37863,Nasir Gadihanov,M,Wrestling
 52567,Drita Islami,F,Athletics
 64823,Daniela Kuleska,F,Athletics
 67423,Zoran Lazarovski,M,Swimming
 74023,Aleksandar Malenko,M,Swimming
 75106,Simona Marinova,F,Swimming
+79033,Nataa Mekovska,F,Swimming
 79734,Aleksandar Miladinovski,M,Swimming
 84593,Darko Naseski,M,Shooting
 85387,Sao Nestorov,M,Shooting
@@ -56605,6 +56538,7 @@ ID_sportsman,Name,Sex,Sport
 91001,Riste Pandev,M,Athletics
 93727,Divna Pei,F,Shooting
 96220,Elena Popovska,F,Swimming
+96222,Lazar Popovski,M,Canoeing
 98600,Murad Ramazanov,M,Wrestling
 101030,Hristina Risteska,F,Athletics
 101038,Mihajlo Ristovski,M,Swimming
@@ -57339,6 +57273,7 @@ ID_sportsman,Name,Sex,Sport
 12991,Manon Maria Bollegraf,F,Tennis
 13008,Marloes Maria Hilde Bolman,F,Rowing
 13072,"Pieter Lammert ""Piet"" Bon",M,Rowing
+13173,Liemarvin Bonevacia,M,Athletics
 13191,"Bartolomeus ""Bart"" Bongers",M,Water Polo
 13296,Johan Klaas Bontekoe,M,Swimming
 13303,"Petronella Theodora Maria ""Ellen"" Bontje",F,Equestrianism
@@ -66090,16 +66025,6 @@ ID_sportsman,Name,Sex,Sport
 122282,Cyprian Tseriwa,M,Athletics
 124801,Brian van Niekerk,M,Boxing
 124926,"Jurgens John ""Jaggie"" van Staden",M,Boxing
-3515,Paulo Amotun Lokoro,M,Athletics
-4379,Rami Anis,M,Swimming
-11364,Yiech Pur Biel,M,Athletics
-16287,Mabika Yolande Bukasa,F,Judo
-20693,James Nyang Chiengjiek,M,Athletics
-60444,Yonas Kinde,M,Athletics
-71067,Anjelina Nadai Lohalith,F,Athletics
-71113,Rose Nathike Lokonyen,F,Athletics
-74902,Yusra Mardini,F,Swimming
-80325,Popole Misenga,M,Judo
 22,Andreea Aanei,F,Weightlifting
 627,Andreea Roxana Acatrinei,F,Gymnastics
 760,Constantin Adam,M,Rowing
@@ -69641,6 +69566,7 @@ ID_sportsman,Name,Sex,Sport
 10354,Igor Bereti,M,Swimming
 10589,Miroslav Beri,M,Basketball
 11465,Neboja Biki,M,Swimming
+11592,Aranka Binder,F,Shooting
 11773,Milan Bievac,M,Football
 12616,Dejan Bodiroga,M,Basketball
 13749,Slobodan Bokan,M,Volleyball
@@ -69649,6 +69575,7 @@ ID_sportsman,Name,Sex,Sport
 19160,Milorad avi,M,Swimming
 19418,Milo Cerovi,M,Swimming
 21665,Aleksandar iri,M,Water Polo
+21666,Suzana iri,F,Athletics
 25265,Predrag Danilovi,M,Basketball
 25833,Vukosava api,F,Athletics
 27309,Andrija Delibai,M,Football
@@ -69672,8 +69599,10 @@ ID_sportsman,Name,Sex,Sport
 42563,Nikola Grbi,M,Volleyball
 42565,Vladimir Grbi,M,Volleyball
 43250,Maja Grozdani,F,Swimming
+43306,Slobodan Gruji,M,Table Tennis
 51798,Danilo Ikodinovi,M,Water Polo
 51835,Ivan Ili,M,Volleyball
+52932,Aleksandra Ivoev,F,Shooting
 53331,Danial Jahi,M,Athletics
 53701,Jelena Jankovi,F,Tennis
 53703,Marko Jankovi,M,Athletics
@@ -69687,6 +69616,7 @@ ID_sportsman,Name,Sex,Sport
 56788,Nikola Kalabi,M,Swimming
 57329,Petar Kapisoda,M,Handball
 57438,Aleksandar Karakaevi,M,Table Tennis
+57936,Goran Kasum,M,Wrestling
 61482,Aleksandar Kneevi,M,Handball
 63341,Slobodan Kova,M,Volleyball
 63347,Mara Kovaevi,F,Judo
@@ -69703,6 +69633,8 @@ ID_sportsman,Name,Sex,Sport
 71180,Nikola Lonar,M,Basketball
 71766,Goran Lovre,M,Football
 72203,Dragan Lukovski,M,Basketball
+72433,Ilija Lupulesku,M,Table Tennis
+73929,Goran Maksimovi,M,Shooting
 75088,Andreja Marinkovi,M,Athletics
 75198,Milan Markovi,M,Volleyball
 75203,Vladan Markovi,M,Swimming
@@ -69713,10 +69645,12 @@ ID_sportsman,Name,Sex,Sport
 79587,Milo Mijalkovi,M,Judo
 79591,Vasa Miji,M,Volleyball
 79759,Igor Milanovi,M,Water Polo
+79828,Mitar Milinkovi,M,Judo
 79840,Ivan Miljkovi,M,Volleyball
 80011,Nikola Milojevi,M,Football
 80020,ikica Milosavljevi,M,Handball
 80038,Dejan Milovanovi,M,Football
+80289,Nemanja Mirosavljev,M,Shooting
 80481,Aleksandar Mitrovi,M,Volleyball
 80486,Biljana Mitrovi-Topi,F,Athletics
 80678,Marija Mladenovi,F,Shooting
@@ -69733,12 +69667,14 @@ ID_sportsman,Name,Sex,Sport
 91930,arko Paspalj,M,Basketball
 92332,Aleksandar Pavlovi,M,Basketball
 93432,Dejan Peri,M,Handball
+93433,Dragan Peri,M,Athletics
 93517,Ranko Perovi,M,Water Polo
 93688,Nenad Perunii,M,Handball
 93705,Sinia Pea,M,Athletics
 93768,Milan Petakovi,M,Athletics
 94159,Branimir Petrovi,M,Football
 94167,arko Petrovi,M,Volleyball
+95464,Stevan Pletikosi,M,Shooting
 96210,Petar Popovi,M,Basketball
 98104,Duka Radan,F,Swimming
 98172,Vladimir Radmanovi,M,Basketball
@@ -69755,7 +69691,9 @@ ID_sportsman,Name,Sex,Sport
 106231,Dejan Savi,M,Water Polo
 106235,Mila Savi,F,Athletics
 106240,Zoran Savi,M,Basketball
+106241,Tamara Savi-otra,F,Fencing
 106491,Vlado epanovi,M,Basketball
+108383,Jasna ekari (Brajkovi-),F,Shooting
 111789,Dragan krbi,M,Handball
 112136,Ivan Smiljani,M,Rowing
 113323,Aleksandar otar,M,Water Polo
@@ -69779,6 +69717,7 @@ ID_sportsman,Name,Sex,Sport
 120887,Dejan Tomaevi,M,Basketball
 120888,Dragana Tomaevi,F,Athletics
 120934,Milo Tomi,M,Rowing
+121106,Dragutin Topi,M,Athletics
 121107,Milenko Topi,M,Basketball
 121750,Petar Trbojevi,M,Water Polo
 123097,Vanja (Franjo-) Udovii,M,Water Polo
@@ -69802,6 +69741,7 @@ ID_sportsman,Name,Sex,Sport
 135133,Marina ivkovi (Filipovi-),F,Athletics
 135156,Andrija Zlati,M,Shooting
 135244,Dragan Zori,M,Canoeing
+135246,Stevan Zori,M,Athletics
 135390,Sinia ugi,M,Diving
 4032,Daniel Andrade,M,Athletics
 5876,Aly Atty,M,Judo
@@ -70747,6 +70687,7 @@ ID_sportsman,Name,Sex,Sport
 75202,Stefan Markovi,M,Basketball
 75205,ore Markovi,M,Swimming
 79561,Brankica Mihajlovi,F,Volleyball
+79562,Lidija Mihajlovi,F,Shooting
 79605,Damir Mikec,M,Shooting
 80039,Jelena Milovanovi,F,Basketball
 80451,Mihajlo Miti,M,Volleyball
@@ -70924,6 +70865,7 @@ ID_sportsman,Name,Sex,Sport
 130924,Ranga Kumara Wimalawansa,M,Athletics
 46491,Margret Hassan,F,Athletics
 58765,Santino Kenyi,M,Athletics
+75001,Guor Marial (-Mading Miaker),M,Athletics
 6858,Odair Pericles dos Ramos Jess da Costa Baia,M,Athletics
 13183,Celma da Graa Soares Bonfim,F,Athletics
 24593,Naiel Santiago D'Almeida,M,Athletics
@@ -75554,6 +75496,7 @@ ID_sportsman,Name,Sex,Sport
 108585,Dara Semonowa,F,Swimming
 115037,Aida Steshenko,F,Table Tennis
 121566,Hojamuhammet Toyew,M,Weightlifting
+3302,Aguida Fatima Amaral,F,Athletics
 17160,Francelina Cabral,F,Cycling
 24648,Gil da Cruz Trinidade,M,Athletics
 75905,Nelia Martins,F,Athletics
@@ -81773,6 +81716,7 @@ ID_sportsman,Name,Sex,Sport
 34288,"Joseph Patrick ""Joe"" Faust",M,Athletics
 34316,"Suzanne Marie ""Suzy"" Favor-Hamilton",F,Athletics
 34326,Joy Lynn Fawcett (Biefeld-),F,Football
+34366,"Jasna Fazli-Reed (-Lupulesku-, -Rather)",F,Table Tennis
 34433,Stefanie Fee,F,Hockey
 34435,Carol Feeney,F,Rowing
 34467,"James ""Jimmy"" Feigen",M,Swimming
@@ -86398,6 +86342,7 @@ ID_sportsman,Name,Sex,Sport
 7145,Zdenko Bala,M,Rowing
 7260,Mirsad Balji,M,Football
 7440,Bernard Ban,M,Wrestling
+7534,Vladimir Banjanac,M,Rowing
 7719,"Ivan ""Ivica"" Barbari",M,Football
 7854,Hrvoje Bari,M,Swimming
 8376,Jadran Barut,M,Rowing
@@ -86424,7 +86369,9 @@ ID_sportsman,Name,Sex,Sport
 12901,Vlado Bojovi,M,Handball
 13079,Ozren Bonai,M,Water Polo
 14411,Radovan Boin,M,Canoeing
+14684,Slobodan Brankovi,M,Athletics
 15142,"Vladimir ""Vlado"" Brinovec",M,Swimming
+15205,Mio Brkovi,M,Cycling
 15208,Marijan Brni,M,Football
 15209,Dragoljub Brnovi,M,Football
 15279,Janez Brodnik,M,Gymnastics
@@ -86520,6 +86467,7 @@ ID_sportsman,Name,Sex,Sport
 37882,Dragan Gagi,M,Gymnastics
 38049,Milan Gali,M,Football
 38050,Zita Galic,F,Handball
+38172,Zoran Galovi,M,Wrestling
 38186,Vinko Galui,M,Athletics
 38971,Zdenka Gapara,F,Swimming
 39634,Blagoja Georgievski,M,Basketball
@@ -86594,6 +86542,7 @@ ID_sportsman,Name,Sex,Sport
 56534,Zoran Kai,M,Water Polo
 56821,Zoran Kalebi,M,Sailing
 56859,Milan Kalina,M,Handball
+56864,Zoran Kalini,M,Table Tennis
 57177,Marjan Kandus,M,Basketball
 57324,Dragan Kapii,M,Basketball
 57448,Milorad Karali,M,Handball
@@ -86784,6 +86733,7 @@ ID_sportsman,Name,Sex,Sport
 93148,Jasmina Perazi (-Gipe),F,Basketball
 93425,Breda Pergar,F,Athletics
 93455,ore Perii,M,Swimming
+93478,Gordana Perkuin,F,Table Tennis
 93690,Miodrag Perunovi,M,Boxing
 93694,eljko Perui,M,Football
 93728,Dragana Pei (-Vuji),F,Handball
@@ -86805,6 +86755,7 @@ ID_sportsman,Name,Sex,Sport
 95023,Janez Pintar,M,Rowing
 95154,Josip Pirmajer,M,Football
 95194,Borislav Pisi,M,Athletics
+95271,Lazo Piva,M,Rowing
 95272,Ante Pivevi,M,Sailing
 95437,Nikola Plea,M,Basketball
 95457,Eugen Pleko,M,Cycling
@@ -86813,12 +86764,14 @@ ID_sportsman,Name,Sex,Sport
 95650,Nevenka Poganik,F,Gymnastics
 95767,Branislav Pokrajac,M,Handball
 95827,Damir Poli,M,Water Polo
+95856,Eszter Poljak,F,Shooting
 95857,Miroslav Poljak,M,Water Polo
 95919,Vinko Poloni,M,Cycling
 96204,Aleksandar Popovi,M,Athletics
 96205,Andrija Popovi,M,Water Polo
 96208,Milosav Popovi,M,Boxing
 96209,Neboja Popovi,M,Handball
+96212,Slobodan Popovi,M,Athletics
 96338,Zlatko Portner,M,Handball
 96377,Renco Posinkovi,M,Water Polo
 96425,Bojan Postrunik,M,Archery
@@ -86864,6 +86817,7 @@ ID_sportsman,Name,Sex,Sport
 103557,Ace Rusevski,M,Boxing
 103676,Sinia Rutei,M,Rowing
 104008,Refik abanadovi,M,Football
+104054,Nandor Sabo Paloc,M,Wrestling
 104101,Fazlija airovi,M,Boxing
 104726,Safer Sali (Saliovski),M,Wrestling
 104733,Aziz Salihu,M,Boxing
@@ -86902,6 +86856,7 @@ ID_sportsman,Name,Sex,Sport
 112532,Viktor najder,M,Athletics
 112950,Damir olman,M,Basketball
 113021,Velimir Sombolac,M,Football
+113284,Zoran orov,M,Wrestling
 113314,Milutin oki,M,Football
 113324,Drago otari,M,Gymnastics
 113650,Slavko pan,M,Athletics
