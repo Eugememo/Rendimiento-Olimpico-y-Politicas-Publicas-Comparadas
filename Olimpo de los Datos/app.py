@@ -16,7 +16,7 @@ img = Image.open("Imagenes\olimpo.png")
 st.set_page_config(page_title = "Olimpo de los Datos", page_icon = img)
 
 # Navegador de páginas 
-menu = ["Inicio", "Predición Población", "Predioción PBI", "Analisís Deportivo JJOO"]
+menu = ["Inicio", "Predición Población", "Predioción PBI", "Analisis Deportivo JJOO"]
 elecion = st.sidebar.selectbox("Navegación", menu)
 
 # Personalización de colores
@@ -259,7 +259,7 @@ elif elecion == "Predioción PBI":
 
 
 # Página 3
-elif elecion == "Analisís Deportivo JJOO":
+elif elecion == "Analisis Deportivo JJOO":
     st.markdown("# <center><font color='#F2AB27'>Analisís Deportivo JJOO</font></center>", unsafe_allow_html=True)
 
     # Dashboard
@@ -289,7 +289,12 @@ else:
     
     st.markdown(""" #### <center><font color='#F2E8C9'>Para las prediciones de Poblacion y PBI, la aplicación utiliza Machine Learning, empleando el algoritmo Prophet de Facebook para generar predicciones precisas. Basándose en datos históricos, identifica patrones y tendencias, permitiendo anticipar futuros comportamientos y tomar decisiones más informadas.</font></center>""", unsafe_allow_html=True)
     
-    st.markdown(""" #### <center><font color='#F2E8C9'> **¡Pero eso no es todo!** Si eres un apasionado del deporte, nuestra sección de Predicciones Olímpicas te permitirá sumergirte en el emocionante mundo de las competencias internacionales. Con nuestros modelos predictivos, podrás anticipar los próximos campeones y las tendencias que marcarán el futuro de los Juegos Olímpicos.</font></center>""", unsafe_allow_html=True)
+    st.markdown(""" #### <center><font color='#F2E8C9'>Esta aplicación web fue creada con el objetivo de analizar y encontrar si existe una correlación entre los resultados obtenidos de los países en los juegos Olímpicos, su PBI y población. Este análisis se puede encontrar en la última página (Analisis Deportivo JJOO) junto con un dashboard interactivo y sus conclusiones.</font></center>""", unsafe_allow_html=True)
+
+    st.markdown(""" ### <center><font color='#F2AB27'>Conoce a mis creadores:</font></center>""", unsafe_allow_html=True)
+
+    st.markdown(""" ##### <font color='#F2E8C9'> Eugenia Memolli | Roll: Data Scientist | Tareas: ETL, EDA, Creación del Dashboard.</font>""", unsafe_allow_html=True)
+    st.markdown(""" ##### <font color='#F2E8C9'>Matías Sosa | Roll: Data Scientist | Tareas: Creación de funciones con Machine Learning y desarrollo de aplicación web </font>""", unsafe_allow_html=True)
 
     # Centrar la imagen
     col1, col2, col3 = st.columns([1, 2, 1])
