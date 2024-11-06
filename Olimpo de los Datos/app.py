@@ -101,8 +101,8 @@ def predic_uno(pais, anos_a_predecir, df, columna):
 
     
         # Agrego las variables
-        fig.add_trace(go.Scatter(x = df_real['Year'], y = df_real[columna], name = "Real", line = dict(color = "blue")))
-        fig.add_trace(go.Scatter(x = forecast['ds'], y = forecast['yhat'], name = columna, line = dict(color = "red")))
+        fig.add_trace(go.Scatter(x = df_real['Year'], y = df_real[columna], name = 'Real', line = dict(color = 'blue')))
+        fig.add_trace(go.Scatter(x = forecast['ds'], y = forecast['yhat'], name = columna, line = dict(color = 'red')))
         fig.update_layout(xaxis_title="Años", yaxis_title = columna, plot_bgcolor='#F2E8C9')
         fig.update_layout(
         xaxis=dict(
@@ -169,7 +169,7 @@ def multiples(año_multiple, paises, data, columna_P):
             colores_usados.append(color_aleatorio)
             
             # Agrego la linea de la predicción 
-            fig.add_trace(go.Scatter(x=predic['ds'], y=predic['yhat'],name=f"Predicción {i}",line=dict(color=color_aleatorio)))
+            fig.add_trace(go.Scatter(x=predic['ds'], y=predic['yhat'],name=f'Predicción {i}',line=dict(color=color_aleatorio)))
         
         # Gráfico final
         fig.update_layout(xaxis_title="Años", yaxis_title = columna_P, plot_bgcolor='#F2E8C9')
@@ -262,6 +262,8 @@ elif elecion == "Predioción PBI":
 elif elecion == "Analisis Deportivo JJOO":
     st.markdown("# <center><font color='#F2AB27'>Analisís Deportivo JJOO</font></center>", unsafe_allow_html=True)
 
+    st.markdown("### <font color='#F2E8C9'>texto</font>", unsafe_allow_html=True)
+
     # Dashboard
     st.components.v1.iframe(
         src="https://app.powerbi.com/view?r=eyJrIjoiNzI0MjkzNGQtMDgyMS00OTliLWEyYTYtMzM3YmJmNTQ2NzMxIiwidCI6IjcxOWU4ZTRkLWZkZDMtNDQxZC05NDcyLTM0MDAxNGJiMTM1NyIsImMiOjR9",
@@ -270,6 +272,9 @@ elif elecion == "Analisis Deportivo JJOO":
         scrolling=True  # Habilitar el scrolling si el contenido es grande
     )
 
+    st.markdown("# <center><font color='#F2AB27'>Conclusiones y reflexiones</font></center>", unsafe_allow_html=True)
+
+    st.markdown("### <font color='#F2E8C9'>concluciones</font>", unsafe_allow_html=True)
 
 
 
