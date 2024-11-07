@@ -6,8 +6,8 @@ import plotly.graph_objects as go
 import random
 
 # Importamos los datasets
-df = pd.read_csv("Data.app\df_PBI.csv")
-df2 = pd.read_csv("Data.app\df_poblacion.csv")
+df = pd.read_csv("Data.app\df_PBI.csv", index_col=0)
+df2 = pd.read_csv("Data.app\df_poblacion.csv", index_col=0)
 
 # Icono de la página 
 img = Image.open("Imagenes\olimpo.png")
@@ -223,6 +223,10 @@ if elecion == "Predición Población":
 
     multiples(año_multiple_2, opcion_multiple_2, df2, "Population")
 
+    st.markdown("## <font color='#F2AB27'>Conoce más sobre nuestros datos:</font>", unsafe_allow_html=True)
+    st.dataframe(df2)
+    st.markdown("<font color='#F2E8C9'>Fuente de los datos: kaggle</font>", unsafe_allow_html=True)
+
 
 # Página 2
 elif elecion == "Predioción PBI":
@@ -256,6 +260,10 @@ elif elecion == "Predioción PBI":
 
 
     multiples(año_multiple, opcion_multiple, df, "PBI")
+
+    st.markdown("## <font color='#F2AB27'>Conoce más sobre nuestros datos:</font>", unsafe_allow_html=True)
+    st.dataframe(df)
+    st.markdown("<font color='#F2E8C9'>Fuente de los datos: kaggle</font>", unsafe_allow_html=True)
 
 
 # Página 3
@@ -292,9 +300,9 @@ else:
     st.markdown("### <center><font color='#F2AB27'>Permitime contarte un poco sobre nuestra aplicación web:</font></center>", unsafe_allow_html=True)
     st.markdown(""" #### <center><font color='#F2E8C9'> **¡Descubre el futuro hoy!** En el Olimpo de los Datos encontrarás las herramientas que necesitas para proyectar el crecimiento económico y demográfico de cualquier país. ¿Quieres saber cómo será el PIB de tu país en 5 años? ¿O cuál será la población mundial en 2030? Explora nuestras secciones de Predicción del PIB y Predicción de Población y descubre las tendencias que darán forma al mundo.</font></center>""", unsafe_allow_html=True)
     
-    st.markdown(""" #### <center><font color='#F2E8C9'>Para las prediciones de Poblacion y PBI, la aplicación utiliza Machine Learning, empleando el algoritmo Prophet de Facebook para generar predicciones precisas. Basándose en datos históricos, identifica patrones y tendencias, permitiendo anticipar futuros comportamientos y tomar decisiones más informadas.</font></center>""", unsafe_allow_html=True)
+    st.markdown(""" #### <center><font color='#F2E8C9'>Para las predicciones, tanto de Población como PBI, la aplicación utiliza Machine Learning, empleando el algoritmo Prophet de Facebook para generar predicciones precisas. Basándose en datos históricos, identifica patrones y tendencias, permitiendo anticipar futuros comportamientos. De esta manera podemos tomar decisiones con un contexto más amplio de lo que podría ser el un posible futuro.</font></center>""", unsafe_allow_html=True)
     
-    st.markdown(""" #### <center><font color='#F2E8C9'>Esta aplicación web fue creada con el objetivo de analizar y encontrar si existe una correlación entre los resultados obtenidos de los países en los juegos Olímpicos, su PBI y población. Este análisis se puede encontrar en la última página (Analisis Deportivo JJOO) junto con un dashboard interactivo y sus conclusiones.</font></center>""", unsafe_allow_html=True)
+    st.markdown(""" #### <center><font color='#F2E8C9'>Esta aplicación web fue creada con el objetivo de analizar y encontrar si existe una correlación entre los resultados obtenidos de los países en los juegos Olímpicos, su PBI y población. Este análisis se puede encontrar en la última página (Analisis Deportivo JJOO) junto con un dashboard interactivo y sus respectivas conclusiones.</font></center>""", unsafe_allow_html=True)
 
     st.markdown(""" ### <center><font color='#F2AB27'>Conoce a mis creadores:</font></center>""", unsafe_allow_html=True)
 
